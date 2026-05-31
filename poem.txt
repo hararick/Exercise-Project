@@ -29,3 +29,5 @@ changes are part of life too
 some more changes are awiting! 
 now what? whats bothering you?
 what are you afraid of?
+
+Heres the issue fixed!
